@@ -1,0 +1,13 @@
+name = "Nominal"
+license = "MIT"
+licenselink = "https://github.com/joshpurvis/nonimal/blob/master/LICENSE"
+homepage = "https://github.com/joshpurvis/nominal"
+description = ""
+tags = ["minimal", "blog", "simple"]
+features = ["bulma", "blog"]
+min_version = "0.41"
+
+[author]
+  name = "Josh Purvis"
+  homepage = "https://purvis.org"
+
